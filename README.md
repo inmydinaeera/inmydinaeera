@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Dinae! 👋
 
-<!--
-**inmydinaeera/inmydinaeera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT undergraduate student with experience in **Python, Data Science, Content Creation**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **JavaScript and AI**
+- 🔭 Working on: **No projects as yet**
+- 🌍 Languages: **Python**
+- 📫 How to reach me: **dinae.m.ce@gmail.com**
+- ⚡ Fun fact: **A lover of horror video games. Never really played any but would love to if given the chance**
+
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **LinkedIn:** (your_linkedin_profile_link)
+- **Instagram:** (your_twitter_profile_link)
